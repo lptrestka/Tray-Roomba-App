@@ -1,7 +1,9 @@
 # Tray-Roomba-App
 A node.js interpretation of a simple roomba mapping program. 
 
-To install, simply clone the repository into a location of your choice.
+To install you have a few options:
+* clone the repository into a location of your choice.
+* click on the green button that says "code", and download the zip folder, then extract it to a location of your choice.
 
 This program requires node js to run, if your machine does not currently have node js:
 
@@ -11,7 +13,7 @@ This program requires node js to run, if your machine does not currently have no
 
 3. Following successful install, open command prompt, terminal, or respective command line interface.
 
-4. Navigate to your new repository, for example: cd C:\Users\username\Desktop\Tray
+4. Navigate to your new repository, for example: cd C:\Users\username\Desktop\Tray-Roomba-App-main
 
 5. Run the program with the command: node .
 
