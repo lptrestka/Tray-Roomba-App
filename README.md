@@ -11,14 +11,16 @@ This program requires node js to run, if your machine does not currently have no
 
 2. Run the installer
 
-3. Following successful install, open command prompt, terminal, or respective command line interface.
 
-4. Navigate to your new repository, for example: cd C:\Users\username\Desktop\Tray-Roomba-App-main
+Following successful install, open command prompt, terminal, or respective command line interface.
 
-5. Run the program with the command: node .
+1. Navigate to your new repository, for example: cd C:\Users\username\Desktop\Tray-Roomba-App-main
+
+2. Run the program with the command: node .
 
 
-* Program parameters are set in the input.txt file
+
+Program parameters are set in the input.txt file
 
 Instructions for modifying the file are as follows:
 
