@@ -1,0 +1,14 @@
+{
+  "name": "tray.io",
+  "version": "1.0.0",
+  "description": "Roomba App",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lucas Trestka",
+  "license": "ISC",
+  "bin": {
+    "hello": "./bin/index.js"
+  }
+}
