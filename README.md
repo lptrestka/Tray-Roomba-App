@@ -15,6 +15,7 @@ This program requires node js to run, if your machine does not currently have no
 Following successful install, open command prompt, terminal, or respective command line interface.
 
 1. Navigate to your new repository, for example: cd C:\Users\username\Desktop\Tray-Roomba-App-main
+  - On mac or linux, you can also get to this step by right clicking on the folder and clicking "Open in terminal".
 
 2. Run the program with the command: node .
 
